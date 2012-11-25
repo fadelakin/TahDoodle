@@ -1,0 +1,1 @@
+This is a simple todo app for Mac. It's the Mac version of iTahDoodle.
